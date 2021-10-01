@@ -1,3 +1,4 @@
+let selectedOperator = "";
 const sonuc = document.querySelector(".ekran");
 
 document.querySelector("#bir").onclick = function () {
