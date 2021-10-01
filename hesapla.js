@@ -55,5 +55,3 @@ document.querySelector("#ce").onclick = function () {
 document.querySelector("#nokta").onclick = function () {
   sonuc.value += `.`;
 };
-
-//-----https://github.com/onerdogan/calculator.git
